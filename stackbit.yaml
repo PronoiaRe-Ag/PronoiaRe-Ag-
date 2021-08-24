@@ -140,7 +140,7 @@ models:
       - products/**
     fields:
       - type: string
-        label: Title
+        label: 'Pronoia Re-Ag '
         name: Title
         description: 'Pronoia Regenerative Agriculture '
         required: true
