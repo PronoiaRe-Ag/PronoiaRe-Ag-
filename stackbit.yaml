@@ -136,7 +136,7 @@ models:
   Pronoia Re-Ag:
     type: page
     label: Advanced Page
-    hideContent: true
+    hideContent: false
     layout: advanced
     exclude:
       - store.md
