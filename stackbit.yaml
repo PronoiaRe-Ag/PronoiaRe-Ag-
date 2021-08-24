@@ -20,7 +20,7 @@ models:
     label: Site Configuration
     fields:
       - type: string
-        name: title
+        name: Pronoia Re-Ag
         label: Title
         description: Pronoia Re-Ag
         required: true
