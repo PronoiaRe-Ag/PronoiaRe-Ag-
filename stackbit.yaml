@@ -141,7 +141,7 @@ models:
     fields:
       - type: string
         label: Title
-        name: Pronoia Re-Ag
+        name: Title
         description: 'Pronoia Regenerative Agriculture '
         required: true
       - type: string
