@@ -126,9 +126,9 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-  Pronoia Re-Ag:
+  Advanced Page:
     type: page
-    label: Advanced Page
+    label: 'Pronoia Re-Ag '
     hideContent: false
     layout: advanced
     exclude:
@@ -138,8 +138,8 @@ models:
       - products/**
     fields:
       - type: string
-        label: Title
-        name: Pronoia Re-Ag
+        label: 'Pronoia Re-Ag '
+        name: Title
         description: 'Pronoia Regenerative Agriculture '
         required: true
       - type: string
