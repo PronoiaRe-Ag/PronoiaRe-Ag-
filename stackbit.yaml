@@ -22,7 +22,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: Site title
+        description: Pronoia Re-Ag
         required: true
       - type: string
         name: path_prefix
