@@ -147,7 +147,7 @@ models:
       - type: string
         label: Title
         name: Pronoia Re-Ag
-        description: The title of the page
+        description: 'Pronoia Regenerative Agriculture '
         required: true
       - type: string
         name: page_css_class
