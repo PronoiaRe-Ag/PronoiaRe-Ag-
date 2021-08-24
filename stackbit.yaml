@@ -96,7 +96,7 @@ models:
     singleInstance: true
     fields:
       - type: string
-        label: Title
+        label: Pronoia Re-Ag
         name: title
         description: The title of the page
         required: true
