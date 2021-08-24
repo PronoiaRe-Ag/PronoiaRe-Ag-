@@ -20,11 +20,6 @@ models:
     label: Site Configuration
     fields:
       - type: string
-        name: 'Title '
-        label: Pronoia Re-Ag
-        description: Pronoia Re-Ag
-        required: true
-      - type: string
         name: path_prefix
         label: Base URL
         description: >-
