@@ -21,7 +21,7 @@ models:
     fields:
       - type: string
         name: 'Title '
-        label: Title
+        label: Pronoia Re-Ag
         description: Pronoia Re-Ag
         required: true
       - type: string
