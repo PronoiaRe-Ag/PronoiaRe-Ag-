@@ -177,6 +177,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+    description: 'Pronoia Regenerative Agriculture '
   store:
     type: page
     label: Store
