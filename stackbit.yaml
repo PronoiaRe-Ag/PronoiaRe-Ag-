@@ -89,7 +89,7 @@ models:
     file: config.json
   home:
     type: page
-    label: Home
+    label: Pronoia Re-Ag
     layout: home
     hideContent: true
     file: index.md
