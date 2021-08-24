@@ -146,7 +146,7 @@ models:
     fields:
       - type: string
         label: Title
-        name: title
+        name: Pronoia Re-Ag
         description: The title of the page
         required: true
       - type: string
